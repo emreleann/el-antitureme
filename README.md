@@ -4,3 +4,4 @@ devrim niteliginde antitureme v2
 isinize yarayacak images ve itemler dosya içerisinde mevcut
 çok kullanmayın bagımlılık yapar
 tavsiyeleriniz için discord emreleann
+https://streamable.com/0dhgp3
